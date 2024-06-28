@@ -1,0 +1,29 @@
+.img{
+    height: 200px;
+    width: 350px;
+}
+.options_img{
+    height: 15px;
+    width: 15px;
+    margin-left: 45px;
+
+}
+.search-bar{
+    height: 45px;
+    width: 35%;
+    margin: 10px 10px ;
+}
+.Container{
+    height:400px ;
+    width: 350px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.paragraph{
+    color: gray;
+}
+.Sponsored{
+    color: black;
+    font-weight: bold;
+}
